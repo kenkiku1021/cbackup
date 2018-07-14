@@ -1,0 +1,6 @@
+backup_dir:
+  - /home/ken/src
+gcp_credentials: credentials.json
+gcp_projectid: projectid
+gcp_kind: cbackup
+bucket: bucketname
